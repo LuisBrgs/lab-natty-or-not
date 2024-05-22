@@ -15,5 +15,9 @@ Foram utilizadas as tecnologias Gemini e Copilot para geração de ideias criati
 ## 🚀 Resultados
 
 
+https://github.com/LuisBrgs/lab-natty-or-not/assets/169453760/aee332e4-0092-4ef4-b4c3-471dd7879820
+
+
+
 ## 💭 Reflexão (Opcional)
-São diversas tecnologias disponíveis e todas em desenvolvimento, sendo difícil escolher a mais indicada para cada tarefa, sendo necessários vários testes. É possível imaginar um novo desafio no futuro: saber identificar o que é criação artificial e o que é real.
+São diversas tecnologias disponíveis e todas em desenvolvimento, sendo difícil escolher a mais indicada para cada tarefa, sendo necessários vários testes. A criação ainda é curta e não é perfeita, mas o suficiente para imaginar um novo desafio no futuro: saber identificar o que é criação artificial e o que é real.
